@@ -1,5 +1,5 @@
 { 
-    "name": "turbo-bot",
+    "name": "Jere-God",
     "version": "2.1.9",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -20,22 +20,22 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "turbo-bot",
-        "turbo-bot-md",
+        "Jere-Bot",
+        "Jere-God-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/TURBO-NITRO1/TURBITO-BOT-V5",
+    "homepage": "https://github.com/JereCrack05/Jere.Bot2.0-God",
     "author": {
-        "name": "TURBO"
+        "name": "Jere"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TURBO-NITRO1/TURBITO-BOT-V5.git"
+        "url": "git+https://github.com/JereCrack05/Jere.Bot2.0-God.git"
     },
     "bugs": {
-        "url": "https://github.com/TURBO-NITRO1/TURBITO-BOT-V5/issues"
+        "url": "https://github.com/JereCrack05/Jere.Bot2.0-God/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
